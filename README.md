@@ -26,16 +26,22 @@ First step you need to clone this git in a folder of your computer.
 
 Then you should just open a comand prompt and move to you folder. (using CD comand) 
 
-Then you just have to run those commands and you will be able to see the project: 
+Then you just have to run those commands: 
 
--"composer install"
+-composer install
 
--"npm install react-router-dom"
+-npm install react-router-dom
 
--"npm install" 
+-npm install
 
--"npm run dev"
+-npm run dev
 
--"php artisan serve"
+Before launching the server make a copy the file .env.example named .env 
+
+then you launch the serve using this command : 
+
+-php artisan serve
+
+And if it's working it means you are just the best. 
 
 
