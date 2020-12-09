@@ -26,8 +26,16 @@ First step you need to clone this git in a folder of your computer.
 
 Then you should just open a comand prompt and move to you folder. (using CD comand) 
 
-Then you just have to run this command and you will be able to see the project: 
+Then you just have to run those commands and you will be able to see the project: 
 
-Php artisan serve
+-"composer install"
+
+-"npm install react-router-dom"
+
+-"npm install" 
+
+-"npm run dev"
+
+-"php artisan serve"
 
 
